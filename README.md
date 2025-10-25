@@ -1,7 +1,7 @@
 # mcp server using fast mcp
 
 A modern todo list application built with FastAPI and integrated with an MCP (Model Context Protocol) server using FastMCP for Gemini CLI interaction.
-Watch the demo video: [FastAPI Todo List with MCP Server Demo](https://drive.google.com/file/d/1vBwzGs_mDDPut9jPG1dQz8nDb7F9PPEz/view?usp=sharing)
+Watch the demo video: [MCP Server Demo](https://drive.google.com/file/d/1vBwzGs_mDDPut9jPG1dQz8nDb7F9PPEz/view?usp=sharing)
 
 ## 🚀 Features
 
